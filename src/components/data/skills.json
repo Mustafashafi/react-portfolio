@@ -1,0 +1,28 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Jquery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+"title": "React",
+    "imageSrc": "skills/react.png"
+  },{
+"title": "Php",
+    "imageSrc": "skills/php.png"
+  },{
+"title": "MySql",
+    "imageSrc": "skills/sql.png"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Php Developer Intern",
+    "organisation": "AICP(Artificial Intelligence Community of Pakistan)",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Worked on web projects",
+      "Calloborate with Tallented Team"
+    ],
+    "imageSrc": "company/Capture.PNG"
+  }
+  
+]
